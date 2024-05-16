@@ -1,0 +1,55 @@
+.Subscribe-button{
+    background-color: darkred;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 100px;
+    margin-top: 50px;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    transition: background-color 1s,color 1s,opacity 1s ,shadow 1s;
+    
+    
+    }
+    .Subscribe-button:hover{
+        background-color:rgba(238, 148, 12);
+        box-shadow: 10px 10px 10px rgba(20, 4, 4,0.6);
+    }
+    .Subscribe-button:active{
+         opacity: 0.4;
+    }
+    .mytext{
+
+        font-size:18px ;
+        font-family:arial;
+        width: 300px;
+        line-height: 28px;
+        margin-bottom: 5px;
+
+
+    }
+.stat{
+    font-family:arial ;
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: rgb(34, 32, 32);
+    margin-top: 0;
+    
+}
+.videoauthor{
+    color: grey;
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.discription{
+    font-family: arial;
+    width: 300px;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+
+}
