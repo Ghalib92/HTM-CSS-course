@@ -297,3 +297,31 @@ height: 25px;
     border-radius: 2px;
 
 }
+.home-page{
+    font: arial;
+    font-size: 25px;
+    font-weight: bolder;
+    align-items: center;
+    margin: 100px 100px;
+
+}
+.home-button{
+    position: fixed;
+    align-items: center;
+    vertical-align: middle;
+    background-color: black;
+    color:white;
+    padding: 10px 8px;
+    border-radius: 8px;
+    margin: 30px 100px;
+    box-shadow: black 6px 5px;
+    font-size: 18px
+
+
+
+}
+.home-button:hover{
+    cursor: pointer;
+    background-color: grey;
+    transition: opacity 1s;
+}
